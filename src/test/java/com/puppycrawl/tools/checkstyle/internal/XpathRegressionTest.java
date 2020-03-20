@@ -82,6 +82,7 @@ public class XpathRegressionTest extends AbstractModuleTestSupport {
             "TrailingComment",
             "UncommentedMain",
             "UnnecessaryParentheses",
+            "UnusedVariable",
             "VariableDeclarationUsageDistance",
             "WriteTag"
     )));

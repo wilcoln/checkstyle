@@ -405,6 +405,7 @@
     <module name="UnnecessarySemicolonAfterTypeMemberDeclaration"/>
     <module name="UnnecessarySemicolonInEnumeration"/>
     <module name="UnnecessarySemicolonInTryWithResources"/>
+    <module name="UnusedVariable"/>
     <module name="VariableDeclarationUsageDistance"/>
 
     <!-- Filters-->

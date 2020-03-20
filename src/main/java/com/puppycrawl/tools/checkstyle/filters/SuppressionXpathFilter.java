@@ -131,6 +131,9 @@ import com.puppycrawl.tools.checkstyle.utils.FilterUtil;
  * UnnecessaryParentheses
  * </li>
  * <li>
+ * UnusedVariable
+ * </li>
+ * <li>
  * VariableDeclarationUsageDistance
  * </li>
  * <li>

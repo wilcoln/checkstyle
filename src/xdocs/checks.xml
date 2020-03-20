@@ -890,6 +890,12 @@
             <td>Checks if unnecessary semicolon is used after type member declaration.</td>
           </tr>
           <tr>
+            <td><a href="config_coding.html#UnusedVariable">UnusedVariable</a></td>
+            <td>
+              Checks that the clone method is not overridden from the
+            Object class.</td>
+          </tr>
+          <tr>
             <td><a href="config_imports.html#UnusedImports">UnusedImports</a></td>
             <td>
             Checks for unused import statements.</td>

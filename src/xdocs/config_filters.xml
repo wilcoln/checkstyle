@@ -931,6 +931,7 @@ public class UserService {
           <li>TrailingComment</li>
           <li>UncommentedMain</li>
           <li>UnnecessaryParentheses</li>
+          <li>UnusedVariable</li>
           <li>VariableDeclarationUsageDistance</li>
           <li>WriteTag</li>
         </ul>
